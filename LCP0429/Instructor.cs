@@ -1,0 +1,6 @@
+﻿namespace d
+{
+    class Instructor
+    { 
+    }
+}
